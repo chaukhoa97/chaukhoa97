@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Finn, a seasoned Front End Software Engineer with 3 years of experience, proficient in a wide range of modern web technologies such as React, Next.js, and TypeScript, with a strong focus on delivering high-quality and user-friendly web applications.
+Hi there 👋, I'm Finn, a seasoned Front End Software Engineer with 3 years of experience, proficient in a wide range of modern web technologies such as React, Next.js, and TypeScript, with a strong focus on delivering high-quality and user-friendly web applications.
 
 <!--
 **chaukhoa97/chaukhoa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
