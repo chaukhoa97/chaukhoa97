@@ -1,4 +1,4 @@
-Hi there 👋, I'm Finn, a Frontend Developer with extensive experience building feature-rich and performant web applications for clients across the globe (US, EU, AU, JP), leveraging a wide range of modern web technologies such as React, Next.js, and TypeScript.
+Hi there 👋, I'm Finn. I've been building front end web applications since 2020 for clients across the globe (US, EU, AU, JP). My main technology is React and its ecosystem, especially Next.js, TypeScript, and Tailwind.
 <!--
 **chaukhoa97/chaukhoa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
